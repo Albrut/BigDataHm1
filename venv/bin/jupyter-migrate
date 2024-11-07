@@ -1,4 +1,4 @@
-#!/home/albert/HomeWorks/BigData/BigDataHm1/venv/bin/python
+#!/home/albert/homeworks/BigDataHm1/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
